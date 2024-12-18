@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu",sans-serif;
+}
+.container{
+    border: 2px solid black;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 30px;
+    font-family: "Ubuntu",sans-serif;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label ,input,select{
+    margin: 14px;
+    width: 400px;
+    height: 30px;
+}
+button{
+    margin: 14px;
+    height: 40px;
+    background-color: rgb(38, 228, 38);
+    border: none;
+    width: 400px;
+    font-family: "poppins",sans-serif;
+    font-size: 18px;
+}
+form{
+    padding: 30px;
+    box-shadow: 0 0 15px grey;
+}
+
+
+  
